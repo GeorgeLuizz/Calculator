@@ -1,0 +1,15 @@
+/home/george/devEx/Calculator/bin/Debug/net7.0/Calculator
+/home/george/devEx/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/home/george/devEx/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/home/george/devEx/Calculator/bin/Debug/net7.0/Calculator.dll
+/home/george/devEx/Calculator/bin/Debug/net7.0/Calculator.pdb
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.dll
+/home/george/devEx/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.pdb
+/home/george/devEx/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/home/george/devEx/Calculator/obj/Debug/net7.0/ref/Calculator.dll
